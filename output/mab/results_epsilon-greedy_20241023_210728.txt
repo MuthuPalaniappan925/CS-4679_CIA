@@ -1,0 +1,62 @@
+Multi-Armed Bandit Results - epsilon-greedy
+==================================================
+
+Parameters:
+Number of arms: 10
+Method: epsilon-greedy
+Epsilon: 0.1
+
+Arm Statistics:
+
+Arm 0:
+True mean: 0.4967
+Estimated mean: 0.5124
+Number of pulls: 111
+
+Arm 1:
+True mean: -0.1383
+Estimated mean: -0.0187
+Number of pulls: 104
+
+Arm 2:
+True mean: 0.6477
+Estimated mean: 0.6917
+Number of pulls: 103
+
+Arm 3:
+True mean: 1.5230
+Estimated mean: 1.5090
+Number of pulls: 93
+
+Arm 4:
+True mean: -0.2342
+Estimated mean: -0.2785
+Number of pulls: 97
+
+Arm 5:
+True mean: -0.2341
+Estimated mean: -0.2145
+Number of pulls: 93
+
+Arm 6:
+True mean: 1.5792
+Estimated mean: 1.5776
+Number of pulls: 9093
+
+Arm 7:
+True mean: 0.7674
+Estimated mean: 0.7827
+Number of pulls: 105
+
+Arm 8:
+True mean: -0.4695
+Estimated mean: -0.5628
+Number of pulls: 103
+
+Arm 9:
+True mean: 0.5426
+Estimated mean: 0.5753
+Number of pulls: 98
+
+Total reward: 14645.0873
+Average reward: 1.4645

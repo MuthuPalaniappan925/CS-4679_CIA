@@ -1,0 +1,121 @@
+================================================================================
+MARKOV DECISION PROCESS (MDP) ANALYSIS REPORT
+================================================================================
+
+1. ENVIRONMENT CONFIGURATION
+------------------------------
+Grid Size: 100x100 (10000 total states)
+Start Position: (40, 90)
+Goal Position: (78, 96)
+Obstacle Count: 3019
+Obstacle Density: 30.19%
+
+2. ALGORITHM PARAMETERS
+------------------------------
+Discount Factor (gamma): 0.99
+Convergence Threshold (theta): 1e-06
+Available Actions: Right (→), Down (↓), Left (←), Up (↑)
+
+3. CONVERGENCE ANALYSIS
+------------------------------
+Total Iterations until Convergence: 1376
+States with Policy Changes: 3209
+Average Changes per State: 1.00
+
+4. OPTIMAL PATH ANALYSIS
+------------------------------
+Path Found: Yes
+Path Length: 55
+Manhattan Distance (Start to Goal): 44
+Path Efficiency Ratio: 80.00%
+
+Path Coordinates:
+Step 0: (40, 90)
+Step 1: (40, 91)
+Step 2: (41, 91)
+Step 3: (42, 91)
+Step 4: (43, 91)
+Step 5: (44, 91)
+Step 6: (44, 90)
+Step 7: (44, 89)
+Step 8: (45, 89)
+Step 9: (46, 89)
+Step 10: (47, 89)
+Step 11: (47, 90)
+Step 12: (48, 90)
+Step 13: (49, 90)
+Step 14: (50, 90)
+Step 15: (51, 90)
+Step 16: (52, 90)
+Step 17: (53, 90)
+Step 18: (54, 90)
+Step 19: (55, 90)
+Step 20: (56, 90)
+Step 21: (57, 90)
+Step 22: (57, 89)
+Step 23: (58, 89)
+Step 24: (59, 89)
+Step 25: (59, 90)
+Step 26: (59, 91)
+Step 27: (59, 92)
+Step 28: (59, 93)
+Step 29: (60, 93)
+Step 30: (61, 93)
+Step 31: (61, 94)
+Step 32: (61, 95)
+Step 33: (61, 96)
+Step 34: (61, 97)
+Step 35: (62, 97)
+Step 36: (63, 97)
+Step 37: (64, 97)
+Step 38: (65, 97)
+Step 39: (65, 98)
+Step 40: (66, 98)
+Step 41: (67, 98)
+Step 42: (68, 98)
+Step 43: (69, 98)
+Step 44: (70, 98)
+Step 45: (70, 97)
+Step 46: (71, 97)
+Step 47: (72, 97)
+Step 48: (73, 97)
+Step 49: (74, 97)
+Step 50: (75, 97)
+Step 51: (76, 97)
+Step 52: (77, 97)
+Step 53: (78, 97)
+Step 54: (78, 96)
+
+5. VALUE FUNCTION ANALYSIS
+------------------------------
+Maximum Value: 100.00
+Minimum Value: -100.00
+Average Value: -11.63
+Value Standard Deviation: 32.16
+
+6. POLICY STATISTICS
+------------------------------
+Action Distribution in Final Policy:
+→: 3782 states (54.18%)
+↓: 1692 states (24.24%)
+←: 702 states (10.06%)
+↑: 805 states (11.53%)
+
+7. MOST VOLATILE STATES
+------------------------------
+States with Most Policy Changes:
+State (76, 96): Changed 2 times
+State (75, 96): Changed 2 times
+State (74, 96): Changed 2 times
+State (73, 96): Changed 2 times
+State (72, 96): Changed 2 times
+State (71, 96): Changed 2 times
+State (66, 78): Changed 2 times
+State (64, 65): Changed 2 times
+State (63, 64): Changed 2 times
+State (67, 55): Changed 2 times
+
+8. FINAL POLICY GRID
+------------------------------
+Legend: → (Right), ↓ (Down), ← (Left), ↑ (Up), █ (Obstacle)
+

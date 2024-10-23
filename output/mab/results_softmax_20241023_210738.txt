@@ -1,0 +1,62 @@
+Multi-Armed Bandit Results - softmax
+==================================================
+
+Parameters:
+Number of arms: 10
+Method: softmax
+Temperature: 0.1
+
+Arm Statistics:
+
+Arm 0:
+True mean: -0.2665
+Estimated mean: 0.0000
+Number of pulls: 0
+
+Arm 1:
+True mean: 0.6845
+Estimated mean: 0.3547
+Number of pulls: 7
+
+Arm 2:
+True mean: -0.6886
+Estimated mean: -1.1366
+Number of pulls: 1
+
+Arm 3:
+True mean: -0.3161
+Estimated mean: 0.0000
+Number of pulls: 0
+
+Arm 4:
+True mean: -1.5874
+Estimated mean: 0.0000
+Number of pulls: 0
+
+Arm 5:
+True mean: 0.6792
+Estimated mean: 0.0000
+Number of pulls: 0
+
+Arm 6:
+True mean: -1.1609
+Estimated mean: 0.0000
+Number of pulls: 0
+
+Arm 7:
+True mean: 0.6103
+Estimated mean: 0.0000
+Number of pulls: 0
+
+Arm 8:
+True mean: -2.0369
+Estimated mean: -1.6170
+Number of pulls: 1
+
+Arm 9:
+True mean: 0.9989
+Estimated mean: 0.9977
+Number of pulls: 9991
+
+Total reward: 9967.7882
+Average reward: 0.9968

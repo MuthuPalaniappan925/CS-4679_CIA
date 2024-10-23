@@ -1,0 +1,61 @@
+Multi-Armed Bandit Results - ucb
+==================================================
+
+Parameters:
+Number of arms: 10
+Method: ucb
+
+Arm Statistics:
+
+Arm 0:
+True mean: 0.7738
+Estimated mean: 0.6498
+Number of pulls: 10
+
+Arm 1:
+True mean: 0.3004
+Estimated mean: 0.2102
+Number of pulls: 6
+
+Arm 2:
+True mean: 1.5386
+Estimated mean: 1.5663
+Number of pulls: 89
+
+Arm 3:
+True mean: -0.9218
+Estimated mean: -1.2039
+Number of pulls: 2
+
+Arm 4:
+True mean: 0.1233
+Estimated mean: 0.3309
+Number of pulls: 7
+
+Arm 5:
+True mean: -1.1030
+Estimated mean: -0.8052
+Number of pulls: 3
+
+Arm 6:
+True mean: -0.6316
+Estimated mean: -0.2717
+Number of pulls: 4
+
+Arm 7:
+True mean: -0.3995
+Estimated mean: -0.1353
+Number of pulls: 4
+
+Arm 8:
+True mean: 1.9736
+Estimated mean: 1.9787
+Number of pulls: 9867
+
+Arm 9:
+True mean: 0.3639
+Estimated mean: 0.3868
+Number of pulls: 8
+
+Total reward: 19669.6343
+Average reward: 1.9670

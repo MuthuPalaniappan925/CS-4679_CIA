@@ -1,0 +1,61 @@
+Multi-Armed Bandit Results - thompson
+==================================================
+
+Parameters:
+Number of arms: 10
+Method: thompson
+
+Arm Statistics:
+
+Arm 0:
+True mean: -0.3749
+Estimated mean: -0.4608
+Number of pulls: 7
+
+Arm 1:
+True mean: -0.1200
+Estimated mean: 0.0942
+Number of pulls: 16
+
+Arm 2:
+True mean: 1.0327
+Estimated mean: 1.0303
+Number of pulls: 9517
+
+Arm 3:
+True mean: -0.2433
+Estimated mean: -0.4170
+Number of pulls: 7
+
+Arm 4:
+True mean: -0.7287
+Estimated mean: -0.6737
+Number of pulls: 5
+
+Arm 5:
+True mean: 0.8357
+Estimated mean: 0.8472
+Number of pulls: 265
+
+Arm 6:
+True mean: 0.8544
+Estimated mean: 0.8061
+Number of pulls: 158
+
+Arm 7:
+True mean: -2.1608
+Estimated mean: -2.5447
+Number of pulls: 1
+
+Arm 8:
+True mean: 0.2589
+Estimated mean: 0.3187
+Number of pulls: 21
+
+Arm 9:
+True mean: -1.0074
+Estimated mean: -1.3774
+Number of pulls: 3
+
+Total reward: 10148.8550
+Average reward: 1.0149
